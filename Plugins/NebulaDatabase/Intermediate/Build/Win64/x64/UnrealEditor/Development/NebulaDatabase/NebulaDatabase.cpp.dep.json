@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\private\\nebuladatabase.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\projects\\nebulasql\\intermediate\\build\\win64\\x64\\nebulasqleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nebuladatabase\\definitions.nebuladatabase.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladatabase.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladbtestconnector.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladbconsolecommands.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "g:\\ue_5.7\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladbpool.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladbconnection.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladatabasecredentials.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\intermediate\\build\\win64\\unrealeditor\\inc\\nebuladatabase\\uht\\nebuladatabasecredentials.generated.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladatabasequeryresult.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\intermediate\\build\\win64\\unrealeditor\\inc\\nebuladatabase\\uht\\nebuladatabasequeryresult.generated.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\thirdparty\\mariadb\\include\\mysql.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\thirdparty\\mariadb\\include\\mariadb_com.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\thirdparty\\mariadb\\include\\mariadb_version.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\thirdparty\\mariadb\\include\\ma_list.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\thirdparty\\mariadb\\include\\mariadb_ctype.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\thirdparty\\mariadb\\include\\mariadb_stmt.h",
+            "g:\\projects\\nebulasql\\plugins\\nebuladatabase\\source\\nebuladatabase\\public\\nebuladatabasesettingshelpers.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

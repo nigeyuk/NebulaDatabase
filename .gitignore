@@ -1,0 +1,20 @@
+# Unreal
+Binaries/*
+Intermediate/*
+DerivedDataCache/*
+Saved/*
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Build artifacts
+*.sln
+*.opensdf
+*.sdf
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
